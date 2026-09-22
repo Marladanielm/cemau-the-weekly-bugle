@@ -1,1 +1,1 @@
-# cemau-the-weekly-bugle
+cemau/the-weekly-bugle
